@@ -1,0 +1,5 @@
+{
+  "name": "Smart Task Manager",
+  "description": "A professional task management dashboard featuring secure authentication, full CRUD capabilities, advanced search, and priority filtering.",
+  "requestFramePermissions": []
+}
